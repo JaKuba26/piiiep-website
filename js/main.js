@@ -7,7 +7,7 @@
   var CONFIG = {
     // Kostenloser Schlüssel von https://web3forms.com (E-Mail des Kunden eintragen)
     // Web-App-URL deines Google-Apps-Scripts (Auftragsliste + Kalender), siehe auftragsverwaltung/EINRICHTUNG.md
-    auftragsUrl: "HIER-WEB-APP-URL-EINTRAGEN",
+    auftragsUrl: "https://script.google.com/macros/s/AKfycbweo1qHf1fdzDSK_hZlmq8Buxoy9xprv4WUQ48sFxtJ198l6RjzCF0SNDo4FKpG2fTBbg/exec",
     // Alternative ohne Kalender: nur E-Mail über https://web3forms.com
     web3formsKey: "HIER-WEB3FORMS-SCHLUESSEL-EINTRAGEN",
     // Einsatzzeiten der Techniker: [Start, Ende], null = kein Einsatz. 0 = Sonntag … 6 = Samstag
